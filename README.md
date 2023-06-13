@@ -1,13 +1,12 @@
-# Image decomposition using Independent Component Analysis(ICA)
+# Image Decomposition using Independent Component Analysis (ICA)
 
-University project.
-This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components.
-![416992dd-ea29-4415-9548-475485a64646](https://github.com/viktor436/Image-decomposition-using-ICA/assets/75243626/96373c69-5f31-4419-85d5-dd15a948c52c)
+This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components. It is a university project.
+
+![Example Image](https://github.com/viktor436/Image-decomposition-using-ICA/assets/75243626/96373c69-5f31-4419-85d5-dd15a948c52c)
 
 ## Prerequisites
 
 Before running the notebook, make sure you have the following dependencies installed:
-
 
 - Python 3.x
 - NumPy
@@ -15,6 +14,8 @@ Before running the notebook, make sure you have the following dependencies insta
 - scikit-learn
 
 You can install the required packages by running the following command:
+pip install -r requirements.txt
+
 
 ## Getting Started
 
@@ -26,14 +27,16 @@ You can install the required packages by running the following command:
 
 4. The notebook will load the `mixed.jpg` image, apply ICA to separate the image into foreground and background components, and display the results.
 
+This notebook can also be tried in Google Colab. Note that you need to upload your own `mixed.jpg` file.
+
 ## License
 
 Feel free to modify and use the code according to your needs.
 
 ## Acknowledgments
 
-This notebook was inspired by Laurent de Vito's project that can be found here: https://github.com/ldv1/ICA_for_demixing_images . The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights.
+This notebook was inspired by Laurent de Vito's project, which can be found here: [https://github.com/ldv1/ICA_for_demixing_images](https://github.com/ldv1/ICA_for_demixing_images). The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. Please note that the image may be subject to copyright.
 
 ## Note
 
-This method of image decomposition might not aways produce good results.
+This method of image decomposition might not always produce good results.
