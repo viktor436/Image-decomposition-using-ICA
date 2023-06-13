@@ -32,7 +32,7 @@ Feel free to modify and use the code according to your needs.
 
 ## Acknowledgments
 
-The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights. This project was inspired by Laurent de Vito's project that can be found here: https://github.com/ldv1/ICA_for_demixing_images.
+This notebook was inspired by Laurent de Vito's project that can be found here: https://github.com/ldv1/ICA_for_demixing_images . The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights.
 
 ## Note
 
