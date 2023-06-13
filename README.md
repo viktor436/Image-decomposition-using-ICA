@@ -31,7 +31,4 @@ Feel free to modify and use the code according to your needs.
 
 ## Acknowledgments
 
-This notebook is inspired by the concept of Independent Component Analysis (ICA) and its application to image separation. The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights. 
-
-
-
+This notebook is inspired by the concept of Independent Component Analysis (ICA) and its application to image separation. The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights. This project was inspired by https://github.com/ldv1/ICA_for_demixing_images. 
