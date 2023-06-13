@@ -1,10 +1,12 @@
 # Image decomposition using Independent Component Analysis(ICA)
 
 This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components.
+![416992dd-ea29-4415-9548-475485a64646](https://github.com/viktor436/Image-decomposition-using-ICA/assets/75243626/96373c69-5f31-4419-85d5-dd15a948c52c)
 
 ## Prerequisites
 
 Before running the notebook, make sure you have the following dependencies installed:
+
 
 - Python 3.x
 - NumPy
