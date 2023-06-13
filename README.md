@@ -1,6 +1,7 @@
 # Image Decomposition using Independent Component Analysis (ICA)
 
-This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components. It is a university project.
+University project.
+This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components.
 
 ![Example Image](https://github.com/viktor436/Image-decomposition-using-ICA/assets/75243626/96373c69-5f31-4419-85d5-dd15a948c52c)
 
@@ -27,7 +28,7 @@ pip install -r requirements.txt
 
 4. The notebook will load the `mixed.jpg` image, apply ICA to separate the image into foreground and background components, and display the results.
 
-This notebook can also be tried in Google Colab. Note that you need to upload your own `mixed.jpg` file.
+This notebook can also be tried in Google Colab [here](https://colab.research.google.com/drive/1mFDdEOHL3Syou-czdCA-lWigBABEQ5f6?usp=sharing). Note that you need to upload your own `mixed.jpg` file.
 
 ## License
 
