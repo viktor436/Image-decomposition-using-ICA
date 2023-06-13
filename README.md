@@ -1,5 +1,6 @@
 # Image decomposition using Independent Component Analysis(ICA)
 
+University project
 This notebook demonstrates how to use Independent Component Analysis (ICA) to separate an image into independent components.
 ![416992dd-ea29-4415-9548-475485a64646](https://github.com/viktor436/Image-decomposition-using-ICA/assets/75243626/96373c69-5f31-4419-85d5-dd15a948c52c)
 
@@ -31,4 +32,8 @@ Feel free to modify and use the code according to your needs.
 
 ## Acknowledgments
 
-This notebook is inspired by the concept of Independent Component Analysis (ICA) and its application to image separation. The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights. This project was inspired by https://github.com/ldv1/ICA_for_demixing_images. 
+This notebook is inspired by the concept of Independent Component Analysis (ICA) and its application to image separation. The implementation utilizes the scikit-learn library for ICA and other data preprocessing tasks. The image may be subject of copyrights. This project was inspired by Laurent de Vito's project that can be found here: https://github.com/ldv1/ICA_for_demixing_images.
+
+## Note
+
+This method of image decomposition might not aways produce good results.
